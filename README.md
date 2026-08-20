@@ -19,7 +19,7 @@
 | :--- | :--- |
 | **Data Viz & BI** | <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/> |
 | **Core Analysis** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/> |
-| **Cloud & Big Data** | <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white"/> |
+| **Cloud & Big Data** | <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white"/> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white"/> |
 | **Méthodologie** | <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> |
 
 ---
@@ -40,14 +40,17 @@ Analyse de >300 000 réservations. Développement d'un pipeline complet (EDA, pr
 Conception de tableaux de bord interactifs pour la performance commerciale annuelle avec navigation fluide et KPIs dynamiques.
 </details>
 
+<details>
+<summary><b>📈 Modélisation Économétrique (SVAR)</b></summary>
+<br>
+Projet de Master : analyse des corrélations entre marchés financiers et obligations vertes sous EViews.
+</details>
+
 ---
 
-### 📈 | ANALYTICS ACTIVITY
-*Un aperçu de mon activité de code au quotidien.*
-
+### 📈 | GITHUB STREAK
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MostaphaMB&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostaphaMB&layout=compact&theme=radical&hide_border=true" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostaphaMB&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
